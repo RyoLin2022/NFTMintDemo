@@ -1,0 +1,15 @@
+#mint-btn {
+    position: absolute;
+    z-index: 10;
+    margin-top: 30vh;
+}
+
+#mint-btn:hover{
+    cursor: pointer;
+    position: absolute;
+    z-index: 10;
+}
+
+.content-center {
+    margin-bottom: 10vh;
+}
